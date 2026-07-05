@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0369_001.yaml, hash: 'sha256:07be0e5aa2c514b4ec34d2b49b9302dedb8082d72eadc3cacb8408cd4384d281'}
+  - {seq: 1, filename: KR4k0369_001.yaml, hash: 'sha256:38499bcd15ca6f5cf882c182cb4412662d87aeb127fa8e8f4015a81afae2f8aa'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0369_001.markers.yaml, hash: 'sha256:e8502c75232da330163b37fdb03dd776536b0ab313eff0468cf717ae1c493a00'}
+  - {seq: 1, role: markers, filename: assets/KR4k0369_001.markers.yaml, hash: 'sha256:f182f6a05d7dbc3da020060082ed82af929fc7841653f671c4074d13bd7df9a9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 盧綝晉四王遺事
   type: section
   level: 1
-hash: sha256:60cbbf5c111c2fbe7d05f675dc2f2c493da53532e33d0e62162d9ce5d57a5208
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4aaced505798a8cc347a38dcfc58b8ae3ec5563ed47cfb9c7cc35a31fdbcbbe5
