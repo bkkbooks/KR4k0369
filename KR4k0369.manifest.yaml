@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR4k0369/v1
 canonical_location: https://kanripo.org/bkk/KR4k0369/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 晉四王遺事一卷
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR4k0369_001.yaml, hash: 'sha256:38499bcd15ca6f5cf882c182cb4412662d87aeb127fa8e8f4015a81afae2f8aa'}
+  - {seq: 1, filename: KR4k0369_001.yaml, hash: 'sha256:07be0e5aa2c514b4ec34d2b49b9302dedb8082d72eadc3cacb8408cd4384d281'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR4k0369_001.markers.yaml, hash: 'sha256:f182f6a05d7dbc3da020060082ed82af929fc7841653f671c4074d13bd7df9a9'}
+  - {seq: 1, role: markers, filename: assets/KR4k0369_001.markers.yaml, hash: 'sha256:004fca63e60f744bff8ed2caab2386c6b240a57f6b84622b5bfe4c8765393a3c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,4 +31,7 @@ table_of_contents:
   label: 盧綝晉四王遺事
   type: section
   level: 1
-hash: sha256:4aaced505798a8cc347a38dcfc58b8ae3ec5563ed47cfb9c7cc35a31fdbcbbe5
+hash: sha256:3f475947e297d562908a53362095061ff5df3de2f5e8bce5d935b0d3e3024b23
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
